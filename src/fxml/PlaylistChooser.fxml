@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane prefHeight="326.0" prefWidth="429.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TableView fx:id="playlistTv" layoutY="81.0" prefHeight="200.0" prefWidth="429.0" />
+      <TextField fx:id="searchTf" layoutX="57.0" layoutY="41.0" prefHeight="25.0" prefWidth="357.0" promptText="Type here to search..." />
+      <Label layoutX="9.0" layoutY="44.0" text="Search:" textFill="WHITE" />
+      <Label layoutX="154.0" layoutY="7.0" text="Choose a playlist" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Button fx:id="selectBtn" layoutX="185.0" layoutY="289.0" mnemonicParsing="false" text="Select!" />
+   </children>
+</Pane>

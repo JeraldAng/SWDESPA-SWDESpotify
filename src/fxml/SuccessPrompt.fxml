@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.text.Font?>
+
+<Pane layoutX="0" layoutY="0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="459.0" prefWidth="605.0" style="-fx-background-color: rgba(27,188,0,0.1);" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+
+        <Region layoutY="125.0" prefHeight="200.0" prefWidth="605" style="-fx-background-color: rgb(135, 193, 125);" />
+        <Label fx:id="titleLb" alignment="CENTER" contentDisplay="CENTER" layoutY="126.0" prefHeight="50.0" prefWidth="605.0" text="TITLE_SUCCESS" textAlignment="CENTER" textFill="#2d8026">
+            <font>
+                <Font name="System Bold" size="33.0" />
+            </font>
+        </Label>
+        <Label fx:id="messageLb" alignment="TOP_CENTER" contentDisplay="CENTER" layoutY="184.0" prefHeight="140.0" prefWidth="605.0" text="MESSAGE" textAlignment="CENTER" textFill="#513333" />
+
+    </children>
+</Pane>

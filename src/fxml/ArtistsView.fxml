@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane prefHeight="319.0" prefWidth="436.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TableView fx:id="artistsTv" layoutY="-2.0" prefHeight="329.0" prefWidth="436.0" />
+   </children>
+</Pane>

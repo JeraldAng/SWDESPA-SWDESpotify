@@ -1,0 +1,59 @@
+﻿Artists:
+	☑ Create and album and put/sort songs into album
+	☑ I want to create playlist for my listeners to follow
+	☑ Upload songs so that I can include it in an album
+	☑ Upload special media as album cover
+	☑ Input details of song (album, name, genre)
+	☑ Search song
+	☑ Search a playlist
+	☑ Search for artist, follow them and listen to songs and albums
+	☑ Search for profiles????
+	☑ Remove song from album
+	☑ Delete an album if all song in it has been removed beforehand
+	☑ Shuffle and put repeat my songs in a queue
+	☑ add songs in a queue
+	☑ add playlist in a queue
+	☑ Sort songs in playlists and albums
+	
+Listener:
+	View my profile so that I can show my public playlist and liked songs
+	☑ View my profile so that I can show the artists and listener I follow
+	☑ View my profile so that I could see a list of the listener and artists that I follow??? (same at 2)
+	☑ Search for an artists so that I can follow and play their songs and albums
+	☑ Search for a song so that I can add then in one of my playlists (songs of artists????)
+	☑ Search for playlists so that I could play songs in it
+	☑ Search for other listener so that I can follow and play the song in their playlist
+	☑ Search for a song so that I can add them in any of my playlists
+	☑ Search for for profiles, songs, albums or playlist with given keywords
+	☑ I can see my recent songs and activity
+	☑ Create playlist so I can add songs in it
+	☑ Notified of updates (new uploads) from artists, so that I can see the recent activities of the artists that I follow
+	☑ Notified of updates (new playlist and recent songs played) from other listeners
+	Select a specific playlist that I follow (or made) and highlight it in my profile
+	☑ Remove a playlists
+	☑ Remove a song from own playlist
+	☑ Shuffle and put on repeat my songs in a queue
+	☑ Add songs in a queue
+	☑ Add playlists in a queue
+	☑ Sort songs in playlists and albums
+
+>notifications
+	☑ PLAY SONGS
+	☑ UPLOAD SONGS 
+	☑ CREATE ALBUM
+	☑ ADD SONGS TO ALBUM
+	☑ CREATE PLAYLIST
+	☑ ADD SONGS TO PLAYLIST
+	☑ FOLLOW SOMEONE
+>activities
+	☑ PLAY SONGS
+	☑ UPLOAD SONGS 
+	☑ CREATE ALBUM
+	☑ ADD SONGS TO ALBUM
+	☑ CREATE PLAYLIST
+	☑ ADD SONGS TO PLAYLIST
+	☑ FOLLOW SOMEONE
+	LIKE SONGS
+	HIGHLIGHTS
+
+
